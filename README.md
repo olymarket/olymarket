@@ -6,7 +6,7 @@
 
 Software engineer with experience developing technological solutions in frontend, backend, and REST API development.
 
-- 📫 Reach out to me at: <a href="mailto:omarlasky@gmail.com">
+- 📫 Reach out to me at: <a href="omarlasky@gmail.com">omarlasky@gmail.com</a>
 
 ## My Skills Include
 
