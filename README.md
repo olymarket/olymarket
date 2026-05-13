@@ -7,6 +7,7 @@
 Software engineer with experience developing technological solutions in frontend, backend, and REST API development.
 
 - 📫 Reach out to me at: <a href="omarlasky@gmail.com">omarlasky@gmail.com</a>
+- 📫 Visit my portfolio: <a href="https://oly.lat">https://oly.lat</a>
 
 ## My Skills Include
 
